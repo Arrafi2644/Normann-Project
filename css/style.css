@@ -2438,6 +2438,10 @@ grid-gap: 30px;
     .shop-action{
       opacity: 1;
     }
+    
+    .shop-action a{
+       opacity: 1;
+    }
 
     .footer-section .footer-row .footer-row-1 .address-col,
     .footer-section .footer-row .footer-row-1 .about-col,
