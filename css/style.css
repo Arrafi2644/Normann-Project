@@ -2434,6 +2434,10 @@ grid-gap: 30px;
       font-size: 36px;
       line-height: 54px;
     }
+    
+    .shop-action{
+      opacity: 1;
+    }
 
     .footer-section .footer-row .footer-row-1 .address-col,
     .footer-section .footer-row .footer-row-1 .about-col,
