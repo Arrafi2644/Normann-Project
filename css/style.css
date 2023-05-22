@@ -2442,6 +2442,10 @@ grid-gap: 30px;
     .shop-action a{
        opacity: 1;
     }
+    
+    .product-section .products .pro-inner .pro-cart-btn {
+    opacity: 1;
+}
 
     .footer-section .footer-row .footer-row-1 .address-col,
     .footer-section .footer-row .footer-row-1 .about-col,
